@@ -111,7 +111,10 @@ Visit `http://localhost:5173`
 ## Screenshots
 
 ### Landing page
-![Landing](https://build-track-eight.vercel.app/og-preview.png)
+![Landing](.github/assets/landing.png)
+
+### Dashboard
+![Dashboard](.github/assets/dashboard.png)
 
 ---
 
